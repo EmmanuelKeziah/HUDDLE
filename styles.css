@@ -5,13 +5,15 @@ body{
 
 .container{
     min-height: 100vh;
-    background-color: blueviolet;
+    background: blueviolet;
     font-family: poppins;
     background-image: url("./Images/bg-desktop.svg");
     background-position: center;
     background-repeat: no-repeat;
     padding: 0 80px;
     background-size: cover;
+    max-width: 1300px;
+    margin: 0 auto;
 }
 
 .header{
